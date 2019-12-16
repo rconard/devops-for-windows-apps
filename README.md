@@ -1,6 +1,6 @@
 # DevOps for Windows Desktop Apps using GitHub Actions
 
-### Create a CI/CD pipeline for a Wpf app built on Net Core
+### Create a CI/CD pipeline for a Wpf app built on Net Core 3
 
 This repo contains a sample application to demonstrate how to create a CI/CD pipeline for a Wpf application built on Net Core and packaged with MSIX using GitHub Actions. 
 
